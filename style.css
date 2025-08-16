@@ -32,5 +32,19 @@ html, body {
     font-size: 15px;            
 }
 .fon{
-    font-family: "Poppins-Regular";
+  font-family: "Poppins-Regular";
+}
+.c2{
+  font-family: "Poppins-Regular";
+  font-size: 32px;
+}
+.c2-p{
+  font-family: "Poppins-Regular";
+  font-size: 16px;
+}
+.c2-n{
+  font-family: "Poppins-Regular";
+}
+.c3{
+  font-family: "Poppins-Regular";
 }
